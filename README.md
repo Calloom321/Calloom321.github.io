@@ -1,13 +1,11 @@
 ## About Me
 
 
-You can use the [editor on GitHub](https://github.com/Calloom321/Calloom321.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+_I am studying it... blah blah blah_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My Projects
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_Put projects here_
 
 ```markdown
 Syntax highlighted code block
