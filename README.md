@@ -1,7 +1,7 @@
 ## About Me
 
 
-_I am studying it... blah blah blah_
+_I am studying IT... blah blah blah_
 
 ### My Projects
 
