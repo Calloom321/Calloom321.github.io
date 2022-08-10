@@ -8,14 +8,14 @@ I am studying IT... blah blah blah
 
 _Put projects here_
 
-## My Reflections
+## Other Stuff
 
-### Relfection #1
+### Something....
 ```markdown
-Write 1st reflection...
+Write something?...
 ```
 
-### Reflection #2
+### Something else
 ```markdown
-Write 2nd reflection...
+Write something else?...
 ```
