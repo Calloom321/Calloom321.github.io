@@ -4,10 +4,18 @@
 I am studying IT... blah blah blah
 ```
 
-### My Projects
+## My Projects
 
 _Put projects here_
 
-### My Reflections
+## My Reflections
 
-_Put reflections here_
+### Relfection #1
+```markdown
+Write 1st reflection...
+```
+
+### Reflection #2
+```markdown
+Write 2nd reflection...
+```
