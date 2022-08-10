@@ -1,7 +1,7 @@
 ## About Me
 
 ```markdown
-_I am studying IT... blah blah blah_
+I am studying IT... blah blah blah
 ```
 
 ### My Projects
