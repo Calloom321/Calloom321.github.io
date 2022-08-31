@@ -31,6 +31,4 @@ The code is written in Python which I thought I had a good understanding
 of when going to analyse the code. It turned out, I had no idea what was
 happening. The code's quite complex and a lot of it is beyond my understanding,
 however, it seems quite cool.
-
-
 ```
