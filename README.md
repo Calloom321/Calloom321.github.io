@@ -10,9 +10,8 @@ This is a repository for me to share the projects & code that I am working on, c
 
 ```markdown
 I got bored one day and decided to try and make a login system in python. 
-It slowly progressed from not being able to store accounts to being able 
-to store accounts with a password being hashed in Sha512 using public 
-python libraries
+It slowly progressed from not being able to store accounts to being able to store 
+accounts with a password being hashed in Sha512 using public python libraries.
 
 ```
 
