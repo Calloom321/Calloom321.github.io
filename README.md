@@ -30,7 +30,8 @@ to go into the cyber security industry I thought I'd have a look at it.
 The code is written in Python which I thought I had a good understanding 
 of when going to analyse the code. It turned out, I had no idea what was
 happening. The code's quite complex and a lot of it is beyond my understanding,
-however, it seems quite cool.
+however, it seems quite cool. This code may be something I return to later on
+when I've furthered my knowledge.
 ```
 
 ## Reflective Prompts
