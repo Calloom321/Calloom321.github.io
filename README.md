@@ -4,7 +4,7 @@ This is a repository for me to share the projects & code that I am working on, c
 ## Projects
 
 
-### Zombie Game
+### Zombie Game - Python
 
 [https://replit.com/@15watsonc/AssessmentVersionEight#main.py](https://replit.com/@15watsonc/AssessmentVersionEight#main.py)
 
