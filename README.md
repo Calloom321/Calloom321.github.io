@@ -9,7 +9,6 @@ This is a repository for me to share the projects & code that I am working on, c
 [https://replit.com/@15watsonc/AssessmentVersionEight#main.py](https://replit.com/@15watsonc/AssessmentVersionEight#main.py)
 
 ```markdown
-
 In high school I was tasked with creating a text-based zombie game. This game uses
 text in order to move and perform tasks. This was my first time workng with classes
 so it was quite difficult for me at the time. I've made comments on the code so
@@ -28,7 +27,6 @@ to return to and refresh myself on things I forget how to do.
 I got bored one day and decided to try and make a login system in python. 
 It slowly progressed from not being able to store accounts to being able to store 
 accounts with a password being hashed in Sha512 using public python libraries.
-
 ```
 ## Code That Inspires Me
 
