@@ -47,7 +47,7 @@ I hadn't heard of timeboxing until prompted here. After a bit of research I've c
 and maximizing productivity. I feel like I'm managing time quite well at the moment so it's not something I need. However, if I start to feel
 like I'm falling behind I wouldn't be aposed it. I guess it's just circumstantial.
 
-### On a a 0-5 scale, how confident are you with each of the assignments?
+### On a 0-5 scale, how confident are you with each of the assignments?
 
 On average I'd say give my confidence a 4. I found a few of the assignments a little confusing (including this one at first)
 However, for the most part I'd say I'm going good.
@@ -66,7 +66,7 @@ completely stealing the persons code however I can use it to think and develope 
 ### If you could send a time traveling text message back to yourself at the start of this course, what would it say?
 
 "Don't over complicate things"
-That's it. I'm an over thinker, and because of it I tend to over complicate things and make them way harder than they need to be.
+That's it. I'm an over thinker and because of it I tend to over complicate things and make them way harder than they need to be.
 Sometimes this is a good thing because it gets my ideas bouncing but a lot of the time it can be an inconvenience.
 
 ### What is Python?
@@ -78,11 +78,11 @@ their interests and create cool things.
 ### Have you developed a habit of exploring?
 
 I think I've developed a habit of exploring. I seem to have found myself browing the github trending page a lot more than I used to. 
-In fact, before this course I didn't even know it existed. 
+In fact, before this course stared, I didn't even know it existed. 
 
 ### Have you meditated before?
 
-I haven't meditated however I've done breathing excersizes. I used to do Kung Fu and and before every single class we'd do a Tai Chi
+I haven't meditated, however, I've done breathing excersizes. I used to do Kung Fu and and before every single class we'd do a Tai Chi
 breathing excersize. Although I no longer go, I still use the breathing technique when I'm angry or frustrated. Sometimes I even just do
 it in the morning to get my day going.
 
@@ -96,7 +96,7 @@ gets ideas and expands on them. Because of this, I'd consider everyone (includin
 ### Do you value creativity? As a value itself? What about as a tool for learning to think logically?
 
 I think creativity is a really important skill to have. When trying to learn you can come across and experience lots of issues
-and complications. Being creative allows for solutions and work around to be made. I'd absolutely say I value it and I'll say
+and complications. Being creative allows for solutions and work arounds to be made. I'd absolutely say I value it and I'll say
 with 100% confidence that it's an excellent skill to have when learning new things.
 
 ### How many tabs do you have open in your web browser right now? What is the ratio of study related tabs to distraction related tabs?
@@ -105,13 +105,11 @@ with 100% confidence that it's an excellent skill to have when learning new thin
 
 ### What is an IDE?
 
-An IDE is a tool used to write programs. An IDE takes common development tools and compiles them into one, easy to use graphical user interface
-
-### So far, what was the hardest moment of this course for you?
+An IDE is a tool used to write programs. An IDE takes common development tools and compiles them into one, easy to use graphical user interface.
 
 ### What is OOP?
 
-Object Orientated Programming (OOP) is a programming method that uses the concept of clases and objects. OOP is used to simplify re-usable
+Object Orientated Programming (OOP) is a programming method that uses the concept of classes and objects. OOP is used to simplify re-usable
 pieces of code and create blueprints for the creation of individual instances of objects.
 
 ### Are you using the canvas content? Do you find it helpful or tedious?
@@ -146,9 +144,9 @@ lump on top and can keep expanding.
 
 The 2nd analogy I thought of is; building a house in minecraft.
 
-All you need is wooden planks and a door and you can create a house. It's not a great house but by definition, it's a house.
-You can then use wooden logs to create support beams. Add a slanted roof. Add depth etc. Even though as a wooden box it was a house and functioned,
-it wasn't a complex palace.
+All you need is wooden planks and a door and you can create wooden box. This box can be used as a house. It's not a great house 
+however, by definition, it's a house. You can then use wooden logs to create support beams. Add a slanted roof. Add depth etc. 
+Even though as a wooden box it was a house and functioned, it wasn't very complex.
 
 ### What is pair programming?
 
@@ -176,7 +174,7 @@ When someone thinks of the word 'variable' they usually think of something that 
 'varies', it changes. However, a variable is a placeholder. It's a way to represent something and it doesn't always have to change
 or be able to change. For example: constant variables in statistics or a constant in coding.
 
-In terms of coding, I'd define a variable as a stored characteristic, number or quatity which can be used to performs programming
+In terms of coding, I'd define a variable as a stored characteristic, number or quatity which can be used to perform programming
 actions.
 
 ### What is something kind that someone has done for you?
@@ -187,10 +185,6 @@ Family making me Tea and/or bringing me food when I'm sick.
 
 I would describe it as writing out an idea and expanding on it to create something cool.
 
-### Which parts of this course made you feel doubtful of your own innate ability?
-
-
-
 ### What is a fixed mindset?
 
 When I think of the word 'fixed' I think 'static' or 'doesn't change'
@@ -198,7 +192,7 @@ Based on this I would say that a fixed mindset is having an opinion about someth
 
 ### What is something kind you have done for someone else?
 
-Yesterday I picked up a mate from the airport and drove him home after he'd been away
+Yesterday I picked up a mate from the airport and drove him home after he'd been away.
 
 ### Have you done mindfulness or attention training before?
 
