@@ -27,6 +27,9 @@ to return to and refresh myself on things I forget how to do.
 I got bored one day and decided to try and make a login system in python. 
 It slowly progressed from not being able to store accounts to being able to store 
 accounts with a password being hashed in Sha512 using public python libraries.
+
+At the time of creating this I'd never wrote code that reads and writes to and
+from files before. After watching a video I found it relatively easy to achieve.
 ```
 ## Code That Inspires Me
 
