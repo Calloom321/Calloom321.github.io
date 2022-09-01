@@ -3,8 +3,24 @@ This is a repository for me to share the projects & code that I am working on, c
 
 ## Projects
 
-### Basic Login System - Python
 
+### Zombie Game
+
+[https://replit.com/@15watsonc/AssessmentVersionEight#main.py](https://replit.com/@15watsonc/AssessmentVersionEight#main.py)
+
+```markdown
+
+In high school I was tasked with creating a text-based zombie game. This game uses
+text in order to move and perform tasks. This was my first time workng with classes
+so it was quite difficult for me at the time. I've made comments on the code so
+people can easily follow along with what's occuring. It also makes it easy for me
+to return to and refresh myself on things I forget how to do.
+```
+
+
+
+
+### Basic Login System - Python
 
 [https://github.com/Calloom321/hashLoginSystem](https://github.com/Calloom321/hashLoginSystem)
 
@@ -14,7 +30,6 @@ It slowly progressed from not being able to store accounts to being able to stor
 accounts with a password being hashed in Sha512 using public python libraries.
 
 ```
-
 ## Code That Inspires Me
 
 _Put projects here_
