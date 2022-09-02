@@ -17,8 +17,6 @@ to return to and refresh myself on things I forget how to do.
 ```
 
 
-
-
 ### Basic Login System - Python
 
 [https://github.com/Calloom321/hashLoginSystem](https://github.com/Calloom321/hashLoginSystem)
@@ -30,6 +28,15 @@ accounts with a password being hashed in Sha512 using public python libraries.
 
 At the time of creating this I'd never wrote code that reads and writes to and
 from files before. After watching a video I found it relatively easy to achieve.
+```
+
+### Basic Calculator - Python
+
+[https://github.com/Calloom321/Basic-Python-Calculator](https://github.com/Calloom321/Basic-Python-Calculator)
+
+```markdown
+For a college assessment I was tasked with making a basic calculator using the
+Tkinter library to make a gui. 
 ```
 ## Code That Inspires Me
 
