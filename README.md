@@ -33,7 +33,19 @@ from files before. After watching a video I found it relatively easy to achieve.
 ```
 ## Code That Inspires Me
 
-_Put projects here_
+### Beets
+
+[https://github.com/beetbox/beets](https://github.com/beetbox/beets)
+
+```markdown
+Music. I love music. Infact, when I had more free time I spent some of it 
+learning to DJ. It can be hard to correctly tag songs the way you'd like.
+
+When I stumbled across this code I thought it was quite cool. And, it's done
+in python!?! A coding language that I can somewhat understand. And,,, it's 
+commented!?!? Perfect! I found some code that relates to a hobby and is
+commented so I can learn from it. Finding this was awesome.
+```
 
 ## Interesting Code
 
