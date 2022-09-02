@@ -36,7 +36,9 @@ from files before. After watching a video I found it relatively easy to achieve.
 
 ```markdown
 For a college assessment I was tasked with making a basic calculator using the
-Tkinter library to make a gui. 
+Tkinter library to make a gui. I'd never used Tkinter before this so I had to learn
+the library. We had a several class lectures on it but I did have to do some external
+research.
 ```
 ## Code That Inspires Me
 
