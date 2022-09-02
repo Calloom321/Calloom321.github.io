@@ -27,7 +27,7 @@ It slowly progressed from not being able to store accounts to being able to stor
 accounts with a password being hashed in Sha512 using public python libraries.
 
 At the time of creating this I'd never wrote code that reads and writes to and
-from files before. After watching a video I found it relatively easy to achieve.
+from files before. After watching a video, I found it relatively easy to achieve.
 ```
 
 ### Basic Calculator - Python
