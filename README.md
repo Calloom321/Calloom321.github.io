@@ -99,7 +99,7 @@ like I'm falling behind I wouldn't be aposed it. I guess it's just circumstantia
 
 ### On a 0-5 scale, how confident are you with each of the assignments?
 
-On average I'd say give my confidence a 4. I found a few of the assignments a little confusing (including this one at first)
+On average I'd give my confidence a 4. I found a few of the assignments a little confusing (including this one at first)
 However, for the most part I'd say I'm going good.
 
 ### Do you have a personal learning strategy? If so, what parts of your learning strategy worked? What problems did you face? If you don't have a personal strategy yet, what do you think might work? Invent and describe a strategy for yourself. 
