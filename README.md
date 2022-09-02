@@ -71,6 +71,18 @@ happening. The code's quite complex and a lot of it is beyond my understanding,
 however, it seems quite cool. This code may be something I return to later on
 when I've furthered my knowledge.
 ```
+### Fabric
+[https://github.com/fabric/fabric](https://github.com/fabric/fabric)
+
+```markdwon
+Secure Shell (SSH) is a way of allowing 2 computers to communicate. Fabric
+is a high level python library that allows python to be executed over SSH.
+
+I went through the main.py file to try and get an understanding of what was
+happening and I understood a fair amount. The code has comments to explain
+what is going on which is quite helpful. The ability to use python over SSH
+sounds really cool. This is the reason I've put the code in this section.
+```
 
 ## Reflective Prompts
 
